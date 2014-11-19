@@ -1,3 +1,0 @@
-Project: ---
-Author:  ---
-Date:    ---
